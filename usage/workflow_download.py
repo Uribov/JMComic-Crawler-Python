@@ -5,7 +5,6 @@ from jmcomic.cl import JmcomicUI
 jm_albums = str_to_list('''
 
 JM422866
-422866
 
 ''')
 
